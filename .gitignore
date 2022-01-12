@@ -1,0 +1,5 @@
+/build/*
+/Algora/AlgoraCore
+/Algora/AlgoraDyn
+/src/DJMatch.pro.user*
+/src/djmatch_info.h
