@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5851268.svg)](https://doi.org/10.5281/zenodo.5851268)
+
 # DJ Match
 
 **DJ Match** implements a number of different algorithms to solve the **k-Disjoint Matchings**
